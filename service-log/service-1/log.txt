@@ -1,0 +1,4 @@
+2024-07-18 10:00:00 INFO Starting service
+2024-07-18 10:05:00 ERROR Failed to connect to database
+2024-07-18 10:10:00 WARNING High memory usage detected
+2024-07-18 10:15:00 INFO Service running normally

@@ -1,0 +1,4 @@
+2024-07-18 12:00:00 INFO Starting service
+2024-07-18 12:05:00 WARNING Disk space running low
+2024-07-18 12:10:00 ERROR Unable to write to disk
+2024-07-18 12:15:00 INFO Service shutting down
